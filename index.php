@@ -2,7 +2,9 @@
 <head>
   <title>Oh geez... What reality am I in?</title>
 </head>
-  
+ 
+ header('Content-Type: text/html; charset=utf-8');
+ 
 <body>
 <h1> Server Information</h1>
 <?php 
